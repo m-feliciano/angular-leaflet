@@ -12,7 +12,8 @@
       "properties": {
         "state": "Acre",
         "name": "Rio Branco",
-        "population": 790101
+        "population": 790101,
+        "imgUrl":"https://bit.ly/34spdOx"
       }
     },
     {
@@ -20,13 +21,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            -37.8163298, -9.6522619
+           -35.8267692, -9.594208
         ]
       },
       "properties": {
         "state": "Alagoas",
         "name": "Maceió",
-        "population": 3322000
+        "population": 3322000,
+        "imgUrl":"https://bit.ly/3uqE079"
       }
     },
     {
@@ -34,13 +36,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            -74.0106645, -3.7235298
+            -60.1071907, -3.044653
         ]
       },
       "properties": {
         "state": "Amazonas",
         "name": "Manaus",
-        "population": 3874000
+        "population": 3874000,
+        "imgUrl":"https://bit.ly/3goI4wM"
       }
     },
     {
@@ -48,13 +51,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            -54.6215231, 1.6022832
+            -51.2369517, 0.1021154
         ]
       },
       "properties": {
         "state": "Amapá",
         "name": "Macapá",
-        "population": 751000
+        "population": 751000,
+        "imgUrl":"https://bit.ly/3L5vZdU"
       }
     },
     {
@@ -62,13 +66,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            -46.4600391, -13.3900171
+            -38.5601957, -12.901393
         ]
       },
       "properties": {
         "state": "Bahia",
         "name": "Salvador",
-        "population": 15130000
+        "population": 15130000,
+        "imgUrl":"https://bit.ly/3rpTOFt"
+
       }
     },
     {
@@ -76,13 +82,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-             -38.5601957, -12.901393
+             -38.6597061, -3.7929605
         ]
       },
       "properties": {
         "state": "Ceará",
         "name": "Fortaleza",
-        "population": 8843000
+        "population": 8843000,
+        "imgUrl":"https://bit.ly/3L70e45"
+
       }
     },
     {
@@ -96,7 +104,9 @@
       "properties": {
         "state": "Distrito Federal",
         "name": "Brasília",
-        "population": 3094325
+        "population": 3094325,
+        "imgUrl":"https://bit.ly/3IZWRdx"
+
       }
     },
     {
@@ -110,7 +120,9 @@
       "properties": {
         "state": "Espírito Santo",
         "name": "Vitória",
-        "population": 3885000
+        "population": 3885000,
+        "imgUrl":"https://bit.ly/3opbNd7"
+
       }
     },
     {
@@ -124,7 +136,8 @@
       "properties": {
         "state": "Goiás",
         "name": "Goiânia",
-        "population": 6523000
+        "population": 6523000,
+        "imgUrl":"https://bit.ly/3Gs15bW"
       }
     },
     {
@@ -132,13 +145,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            -47.5196337, -5.6512374
+            -44.3281636, -2.5604588
         ]
       },
       "properties": {
         "state": "Maranhão",
         "name": "São Luís",
-        "population": 6851000
+        "population": 6851000,
+        "imgUrl":"https://bit.ly/3ATYhU4"
       }
     },
     {
@@ -146,13 +160,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -49.9457044, -18.5247483
+            -44.1041399, -19.9023386
           ]
         },
         "properties": {
           "state": "Minas Gerais",
           "name": "Belo Horizonte",
-          "population": 20870000
+          "population": 20870000,
+          "imgUrl":"https://bit.ly/3uxIkS6"
         }
       },
       {
@@ -166,7 +181,8 @@
         "properties": {
           "state": "Mato Grosso do Sul",
           "name": "Campo Grande",
-          "population": 2620000
+          "population": 2620000,
+          "imgUrl":"https://bit.ly/3scyJh3"
         }
       },
       {
@@ -174,13 +190,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -60.4243335, -12.6575207
+            -56.1818972, -15.6140323
           ]
         },
         "properties": {
           "state": "Mato Grosso",
           "name": "Cuiabá",
-          "population": 3224000
+          "population": 3224000,
+          "imgUrl":"https://bit.ly/3gjtNRY"
         }
       },
       {
@@ -188,13 +205,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -56.9759354, -3.5953579
+            -48.5904725, -1.3410047
           ]
         },
         "properties": {
           "state": "Pará",
           "name": "Belém",
-          "population": 8074000
+          "population": 8074000,
+          "imgUrl": "https://bit.ly/32VQXus"
         }
       },
       {
@@ -208,7 +226,8 @@
         "properties": {
           "state": "Paraíba",
           "name": "João Pessoa",
-          "population": 3944000
+          "population": 3944000,
+          "imgUrl": "https://bit.ly/34be3Oz"
         }
       },
       {
@@ -216,13 +235,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -41.3639368, -6.6234987
+            -35.0779396, -8.0418098
           ]
         },
         "properties": {
           "state": "Pernambuco",
           "name": "Recife",
-          "population": 9278000
+          "population": 9278000,
+          "imgUrl": "https://bit.ly/3oq9GWx"
         }
       },
       {
@@ -230,13 +250,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -45.4433693, -6.8340592
+            -41.765683, -2.9304021
           ]
         },
         "properties": {
           "state": "Piauí",
           "name": "Teresina",
-          "population": 3195000
+          "population": 3195000,
+          "imgUrl": "https://bit.ly/3ur2nC0"
         }
       },
       {
@@ -250,7 +271,8 @@
         "properties": {
           "state": "Paraná",
           "name": "Curitiba",
-          "population": 11080000
+          "population": 11080000,
+          "imgUrl": "https://bit.ly/3roehKW"
         }
       },
       {
@@ -258,13 +280,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -44.0448019, -22.0622495
+            -43.7261886, -22.9132524
           ]
         },
         "properties": {
           "state": "Rio de Janeiro",
           "name": "Rio de Janeiro",
-          "population": 16460000
+          "population": 16460000,
+          "imgUrl": "https://bit.ly/35Q9nOv"
         }
       },
       {
@@ -278,7 +301,8 @@
         "properties": {
           "state": "Rio Grande do Norte",
           "name": "Natal",
-          "population": 3409000
+          "population": 3409000,
+          "imgUrl": "https://bit.ly/3upRTTb"
         }
       },
       {
@@ -286,13 +310,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -65.5362555, -10.8266722
+            -63.0738994, -9.9052492
           ]
         },
         "properties": {
           "state": "Rondônia",
           "name": "Porto Velho",
-          "population": 1749000
+          "population": 1749000,
+          "imgUrl": "https://bit.ly/3J3i0Dz"
         }
       },
       {
@@ -300,13 +325,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -64.1041655, 1.8441622
+            -60.7666032, 2.8073684
           ]
         },
         "properties": {
           "state": "Roraima",
           "name": "Boa Vista",
-          "population": 496936
+          "population": 496936,
+          "imgUrl": "https://bit.ly/3sjhM4z"
         }
       },
       {
@@ -314,13 +340,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -55.9132133, -30.3994367
+            -51.3172304, -30.1084987
           ]
         },
         "properties": {
           "state": "Rio Grande do Sul",
           "name": "Porto Alegre",
-          "population": 11290000
+          "population": 11290000,
+          "imgUrl": "https://bit.ly/3GqjjLg"
         }
       },
       {
@@ -328,13 +355,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -53.3262949, -27.6373963
+            -48.75047, -27.5713144
           ]
         },
         "properties": {
           "state": "Santa Catarina",
           "name": "Florianópolis",
-          "population": 7165000
+          "population": 7165000,
+          "imgUrl": "https://bit.ly/3orq2yb"
         }
       },
       {
@@ -348,7 +376,8 @@
         "properties": {
           "state": "São Paulo",
           "name": "São Paulo",
-          "population": 44040000
+          "population": 44040000,
+          "imgUrl": "https://bit.ly/3gp1nG1"
         }
       },
       {
@@ -356,13 +385,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -37.8809247,-10.5413167
+            -37.2432467, -11.0056387
           ]
         },
         "properties": {
           "state": "Sergipe",
           "name": "Aracaju",
-          "population": 2220000
+          "population": 2220000,
+           "imgUrl": "https://bit.ly/3ooBUB5"
         }
       },
       {
@@ -370,13 +400,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -50.4646408, -9.3112572
+            -48.4873249, -10.2596918
           ]
         },
         "properties": {
           "state": "Tocantins",
           "name": "Palmas",
-          "population": 1497000
+          "population": 1497000,
+           "imgUrl": "https://bit.ly/3oq8GSh"
         }
       }
 
