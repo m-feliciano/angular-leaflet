@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -70.8381857, -9.0284113
+        ]
+      },
+      "properties": {
+        "state": "Acre",
+        "name": "Rio Branco",
+        "population": 790101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -37.8163298, -9.6522619
+        ]
+      },
+      "properties": {
+        "state": "Alagoas",
+        "name": "Maceió",
+        "population": 3322000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -74.0106645, -3.7235298
+        ]
+      },
+      "properties": {
+        "state": "Amazonas",
+        "name": "Manaus",
+        "population": 3874000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -54.6215231, 1.6022832
+        ]
+      },
+      "properties": {
+        "state": "Amapá",
+        "name": "Macapá",
+        "population": 751000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -46.4600391, -13.3900171
+        ]
+      },
+      "properties": {
+        "state": "Bahia",
+        "name": "Salvador",
+        "population": 15130000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+             -38.5601957, -12.901393
+        ]
+      },
+      "properties": {
+        "state": "Ceará",
+        "name": "Fortaleza",
+        "population": 8843000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -48.0774421, -15.7217175
+        ]
+      },
+      "properties": {
+        "state": "Distrito Federal",
+        "name": "Brasília",
+        "population": 3094325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -39.8577615, -19.5411834
+        ]
+      },
+      "properties": {
+        "state": "Espírito Santo",
+        "name": "Vitória",
+        "population": 3885000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -51.821693, -15.9350626
+        ]
+      },
+      "properties": {
+        "state": "Goiás",
+        "name": "Goiânia",
+        "population": 6523000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -47.5196337, -5.6512374
+        ]
+      },
+      "properties": {
+        "state": "Maranhão",
+        "name": "São Luís",
+        "population": 6851000
+      }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.9457044, -18.5247483
+          ]
+        },
+        "properties": {
+          "state": "Minas Gerais",
+          "name": "Belo Horizonte",
+          "population": 20870000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -56.7894031, -20.6024744
+          ]
+        },
+        "properties": {
+          "state": "Mato Grosso do Sul",
+          "name": "Campo Grande",
+          "population": 2620000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.4243335, -12.6575207
+          ]
+        },
+        "properties": {
+          "state": "Mato Grosso",
+          "name": "Cuiabá",
+          "population": 3224000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -56.9759354, -3.5953579
+          ]
+        },
+        "properties": {
+          "state": "Pará",
+          "name": "Belém",
+          "population": 8074000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.9005801, -7.1630759
+          ]
+        },
+        "properties": {
+          "state": "Paraíba",
+          "name": "João Pessoa",
+          "population": 3944000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -41.3639368, -6.6234987
+          ]
+        },
+        "properties": {
+          "state": "Pernambuco",
+          "name": "Recife",
+          "population": 9278000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.4433693, -6.8340592
+          ]
+        },
+        "properties": {
+          "state": "Piauí",
+          "name": "Teresina",
+          "population": 3195000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -53.5649675, -24.6000744
+          ]
+        },
+        "properties": {
+          "state": "Paraná",
+          "name": "Curitiba",
+          "population": 11080000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -44.0448019, -22.0622495
+          ]
+        },
+        "properties": {
+          "state": "Rio de Janeiro",
+          "name": "Rio de Janeiro",
+          "population": 16460000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.896514, -5.8984254
+          ]
+        },
+        "properties": {
+          "state": "Rio Grande do Norte",
+          "name": "Natal",
+          "population": 3409000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -65.5362555, -10.8266722
+          ]
+        },
+        "properties": {
+          "state": "Rondônia",
+          "name": "Porto Velho",
+          "population": 1749000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -64.1041655, 1.8441622
+          ]
+        },
+        "properties": {
+          "state": "Roraima",
+          "name": "Boa Vista",
+          "population": 496936
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -55.9132133, -30.3994367
+          ]
+        },
+        "properties": {
+          "state": "Rio Grande do Sul",
+          "name": "Porto Alegre",
+          "population": 11290000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -53.3262949, -27.6373963
+          ]
+        },
+        "properties": {
+          "state": "Santa Catarina",
+          "name": "Florianópolis",
+          "population": 7165000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.8754835, -23.6821604
+          ]
+        },
+        "properties": {
+          "state": "São Paulo",
+          "name": "São Paulo",
+          "population": 44040000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.8809247,-10.5413167
+          ]
+        },
+        "properties": {
+          "state": "Sergipe",
+          "name": "Aracaju",
+          "population": 2220000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.4646408, -9.3112572
+          ]
+        },
+        "properties": {
+          "state": "Tocantins",
+          "name": "Palmas",
+          "population": 1497000
+        }
+      }
+
+]}
